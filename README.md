@@ -1,5 +1,5 @@
 # mamas-and-papas
-All coding done at Mamas &amp; Papas
+Coding done at Mamas &amp; Papas
 
 Links to display the working code please follow:
 
